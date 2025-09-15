@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PlayerKMP",
-            url: "https://nexus-production.dnm.radiofrance.fr/repository/test-mobile-cop-spm/PlayerKMP/1.73-dev5-test17/PlayerKMP.xcframework.zip",
-            checksum: "c849e47606ba6987de92ae8b3dde7741049a0272119e473f999e47ef7bfb4e99"
+            url: "https://nexus-production.dnm.radiofrance.fr/repository/test-mobile-cop-spm/PlayerKMP/1.73-dev5-test18/PlayerKMP.xcframework.zip",
+            checksum: "f3041588ca92bcc439de7d605894763c3eb9080586b734f70d0bbc9989e33f2d"
         )
     ]
 )
