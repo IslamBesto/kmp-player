@@ -3,7 +3,7 @@ import PackageDescription
 
 let package = Package(
     name: "PlayerKMP",
-    platforms: [.iOS(.v13)],
+    platforms: [.iOS(.v15)],
     products: [
         .library(name: "PlayerKMP", targets: ["PlayerKMP"])
     ],
